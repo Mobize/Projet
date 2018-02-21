@@ -1,4 +1,5 @@
 <?php
+/* toto */
 require_once('php_inc/init.php');
 
 //traitement connexion
